@@ -10,8 +10,8 @@ This project aims to ensure proper vehicle maintenance to help customers avail o
    - https://insurance-data-fetch.vercel.app/
      
 ### Prerequisites
-Node.js and npm
-Python and Flask
+Node.js and npm,
+Python and Flask,
 MetaMask: Install the MetaMask browser extension from metamask.io
 
 ### Funding your Wallet
